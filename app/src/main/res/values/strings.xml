@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">лаба33</string>
+
+    <string name="OK">OK</string>
+    <string name="Cancel">Отменить</string>
+    <string name="Add">Добавить</string>
+
+<!--    <string name="Str"></string>-->
+<!--    <integer name="Number">0</integer>-->
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr1">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+        <item>item4</item>
+    </string-array>
+
+    <string-array name="spin">
+        <item>Выполнено</item>
+        <item>Не выполнено</item>
+        <item>В процессе</item>
+    </string-array>
+</resources>
